@@ -6,6 +6,7 @@ This project is a simple registration form built using EJS (Embedded JavaScript 
 
 ## Features
 
+-Responsive Web Page
 - User-friendly registration form.
 - Server-side form validation.
 - Dynamic content rendering using EJS templates.
@@ -19,7 +20,7 @@ Before running this project, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
-- [MySQL](https://www.mysql.com/) or another database management system
+- [MongoDB](https://www.mongodb.com/)
 
 ---
 
@@ -53,8 +54,10 @@ Before running this project, ensure you have the following installed:
 - [Express.js](https://expressjs.com/)
 - [Bootstrap](https://getbootstrap.com/)
 
-  Output ::
+## Output
 
   
 ![image](https://github.com/user-attachments/assets/b95d614b-00e1-4244-a758-b198fa776380)
+![image](https://github.com/user-attachments/assets/fdedc6f9-808c-440a-a385-a71e2ad3902a)
+
 
