@@ -58,6 +58,9 @@ Before running this project, ensure you have the following installed:
 
   
 ![image](https://github.com/user-attachments/assets/b95d614b-00e1-4244-a758-b198fa776380)
-![image](https://github.com/user-attachments/assets/fdedc6f9-808c-440a-a385-a71e2ad3902a)
+![image](https://github.com/user-attachments/assets/dcf7dd33-70a3-4cb8-b6bd-8b316b12bf55)
+![image](https://github.com/user-attachments/assets/aafc618a-82b6-4daa-96f2-7be1510178cc)
+
+
 
 
